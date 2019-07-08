@@ -1,0 +1,30 @@
+                     Development diagram
+ ./
+ |__ chronos.py -> Entry program
+ |__ README.MD   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
