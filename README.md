@@ -1,4 +1,4 @@
-![](https://travis-ci.com/aguilarjose11/Chronos-time-book.svg?branch=jose-menu)
+[![Build Status](https://travis-ci.com/aguilarjose11/Chronos-time-book.svg?branch=jose-menu)](https://travis-ci.com/aguilarjose11/Chronos-time-book)
 
 Chronos Time Book System -- A Time management system
 ==================================================================
