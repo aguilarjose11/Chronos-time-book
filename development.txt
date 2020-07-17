@@ -1,13 +1,17 @@
                      Development diagram
- ./
- |__ chronos.py -> Entry program
+chronos-time-book/
+ |__ chronos.py - main executable program.
  |__ README.MD   
-
-
-
-
-
-
+ |__ development.txt
+ |__ ChronosUtil - Package.
+    \__ __init__.py ~ package marker.
+    |__ Menu.py ~ package with menu utilities.  
+       \__ BaseMenu ~ basic menu class **Interface**
+       |  \__ __init__() ~ constructor.
+       |  |__ paint() ~ draws ascii gui.
+       |  |__ run() ~ executes the menu code
+       |  |__ setTitle() ~ sets window title.     
+       |__ ChronosMainMenu ~ home main menu for program.
 
 
 

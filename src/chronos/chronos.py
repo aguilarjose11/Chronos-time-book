@@ -8,6 +8,15 @@ This is the entry point. Run this as Main program. Read README.md for more info 
 from ChronosUtil.Menu import ChronosMainMenu
 
 
+def main():
+    '''
+Main method. This contains the main loop.
+
+    @author  Jose Efraim Aguilar Escamilla
+    @version v0.1
+    @since   2019-07-08
+'''
+    pass
 
 
 if __name__ == "__main__":
