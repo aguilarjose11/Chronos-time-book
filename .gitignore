@@ -1,3 +1,5 @@
 venv
 *.pyc
 playfolder
+.tox/
+Chronos_time_book.egg-info/
