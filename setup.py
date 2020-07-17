@@ -21,10 +21,6 @@ setuptools.setup(
     ],
     python_requires='>=3.8',
     install_requires=(
-        "flake8>=3.8.3",
-        "mccabe>=0.6.1",
-        "pycodestyle>=2.6.0",
-        "pyflakes>=2.2.0",
         "urwid>=2.1.0",
     )
 )
